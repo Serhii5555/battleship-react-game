@@ -47,12 +47,12 @@ The application will be available at: `http://localhost:5173` (port may vary)
 
 ## Available Commands
 
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Run in development mode with HMR (Hot Module Replacement) |
-| `npm run build` | Build the project for production |
-| `npm run lint` | Check code with ESLint |
-| `npm run preview` | Preview the built project |
+| Command           | Description                                               |
+| ----------------- | --------------------------------------------------------- |
+| `npm run dev`     | Run in development mode with HMR (Hot Module Replacement) |
+| `npm run build`   | Build the project for production                          |
+| `npm run lint`    | Check code with ESLint                                    |
+| `npm run preview` | Preview the built project                                 |
 
 ## Project Structure
 
@@ -61,6 +61,7 @@ src/
 ├── assets/              # Media files and static resources
 ├── components/          # Reusable React components
 │   ├── Container.tsx
+│   ├── CookieConsent.tsx     # GDPR cookie consent component
 │   ├── GameButton.tsx
 │   ├── GameResultModal.tsx
 │   ├── GameTimer.tsx
@@ -82,7 +83,8 @@ src/
 ├── router/              # Routing configuration
 │   └── AppRouter.tsx
 ├── store/               # Zustand state store
-│   └── gameStore.ts
+│   ├── gameStore.ts
+│   └── cookieStore.ts   # Cookie preferences store
 ├── styles/              # Global styles
 │   └── global.css
 ├── App.tsx              # Main application component
@@ -91,17 +93,63 @@ src/
 public/                  # Static files
 ```
 
+## GDPR Compliance & Cookie Management
+
+This application is **GDPR-compliant and includes built-in cookie management**:
+
+### Cookie Consent Banner
+- **Automatic Display:** Shows on first visit
+- **User-Friendly:** Clear categorization of cookie types
+- **Customizable:** Users can accept all, reject all, or choose specific categories
+- **Persistent:** Preferences are saved in browser storage
+
+### Cookie Categories
+1. **Necessary Cookies** (Always Enabled)
+   - Essential for site functionality and security
+   - Session management and CSRF protection
+   - Cannot be disabled
+
+2. **Functional Cookies** (Optional)
+   - Game settings and preferences
+   - Accessibility options
+   - User experience enhancements
+
+3. **Analytics Cookies** (Optional)
+   - Website usage statistics
+   - User behavior tracking
+   - Performance monitoring
+
+4. **Marketing Cookies** (Optional)
+   - Personalized advertisements
+   - Retargeting and conversion tracking
+   - Third-party advertising partners
+
+### Privacy Policy
+For detailed information about how we handle your data and your rights under GDPR, please review our [Privacy Policy](PRIVACY_POLICY.md).
+
+### Your Rights Under GDPR
+You have the right to:
+- Know what personal data we collect
+- Request access to your data
+- Request deletion of your data ("Right to be Forgotten")
+- Withdraw your consent at any time
+- Lodge a complaint with your data protection authority
+
+---
+
 ## Configuration
 
 ### TypeScript
 
 The project uses TypeScript with the following configuration:
+
 - **Version:** ~5.9.3
 - **Target:** ES2020
 - **Module:** ESNext
 - **JSX:** react-jsx
 
 Configuration files:
+
 - `tsconfig.json` - base configuration
 - `tsconfig.app.json` - application configuration
 - `tsconfig.node.json` - Node.js scripts configuration
@@ -109,10 +157,12 @@ Configuration files:
 ### ESLint
 
 The project uses ESLint for code quality assurance:
+
 - **Version:** 9.36.0
 - **Config File:** `eslint.config.js`
 
 Run code check:
+
 ```bash
 npm run lint
 ```
@@ -120,6 +170,7 @@ npm run lint
 ### Vite
 
 Vite configuration is located in `vite.config.ts`:
+
 - React plugin for JSX/TSX
 - Tailwind CSS integration
 - Production optimization
@@ -133,6 +184,7 @@ Vite configuration is located in `vite.config.ts`:
 - `framer-motion` - animation library
 - `lucide-react` - icon set
 - `react` - core library
+- `react-cookie-consent` - GDPR-compliant cookie consent management
 - `react-dom` - DOM manipulation
 - `react-hook-form` - form state management
 - `react-router-dom` - client-side routing

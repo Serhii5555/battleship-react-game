@@ -140,6 +140,7 @@
 [is-number@7.0.0](https://github.com/jonschlinkert/is-number) - MIT
 [isexe@2.0.0](https://github.com/isaacs/isexe) - ISC
 [jiti@2.6.1](https://github.com/unjs/jiti) - MIT
+[js-cookie@3.0.5](https://github.com/js-cookie/js-cookie) - MIT
 [js-tokens@4.0.0](https://github.com/lydell/js-tokens) - MIT
 [js-yaml@4.1.0](https://github.com/nodeca/js-yaml) - MIT
 [jsesc@3.1.0](https://github.com/mathiasbynens/jsesc) - MIT
@@ -182,6 +183,7 @@
 [property-expr@2.0.6](https://github.com/jquense/expr) - MIT
 [punycode@2.3.1](https://github.com/mathiasbynens/punycode.js) - MIT
 [queue-microtask@1.2.3](https://github.com/feross/queue-microtask) - MIT
+[react-cookie-consent@10.0.1](https://github.com/Mastermindzh/react-cookie-consent) - MIT
 [react-dom@19.2.0](https://github.com/facebook/react) - MIT
 [react-hook-form@7.66.0](https://github.com/react-hook-form/react-hook-form) - MIT
 [react-refresh@0.17.0](https://github.com/facebook/react) - MIT
