@@ -1,14 +1,15 @@
-import CookieConsent from 'react-cookie-consent';
-import { useCookieStore } from '../store/cookieStore';
-import { useEffect, useState } from 'react';
+import CookieConsent from "react-cookie-consent";
+import { useCookieStore } from "../store/cookieStore";
+import { useEffect, useState } from "react";
 
 export const CookieConsentBanner = () => {
-  const { consentGiven, setConsentGiven, preferences, setPreferences } = useCookieStore();
+  const { consentGiven, setConsentGiven, preferences, setPreferences } =
+    useCookieStore();
   const [showDetails, setShowDetails] = useState(false);
 
   useEffect(() => {
     // Load preferences from localStorage
-    const stored = localStorage.getItem('cookie-consent-storage');
+    const stored = localStorage.getItem("cookie-consent-storage");
     if (stored) {
       try {
         const parsed = JSON.parse(stored);
@@ -16,7 +17,7 @@ export const CookieConsentBanner = () => {
           setConsentGiven(true);
         }
       } catch (e) {
-        console.error('Failed to parse cookie consent storage:', e);
+        console.error("Failed to parse cookie consent storage:", e);
       }
     }
   }, [setConsentGiven]);
@@ -62,8 +63,10 @@ export const CookieConsentBanner = () => {
                 Cookie Preferences
               </h3>
               <p className="text-sm text-gray-600">
-                We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. 
-                By clicking "Accept All", you consent to our use of cookies. You can customize your preferences below.
+                We use cookies to enhance your browsing experience, serve
+                personalized ads or content, and analyze our traffic. By
+                clicking "Accept All", you consent to our use of cookies. You
+                can customize your preferences below.
               </p>
             </div>
 
@@ -106,7 +109,7 @@ export const CookieConsentBanner = () => {
             </div>
 
             {/* Content */}
-            <div className="px-6 py-4 space-y-6">
+            <div className="px-6 py-4 space-y-6 text-left">
               {/* Necessary Cookies */}
               <div className="border border-gray-200 rounded-lg p-4">
                 <div className="flex items-center justify-between mb-2">
@@ -115,8 +118,8 @@ export const CookieConsentBanner = () => {
                       Necessary Cookies
                     </h3>
                     <p className="text-sm text-gray-600 mt-1">
-                      Essential for site functionality, security, and user experience.
-                      These cookies cannot be disabled.
+                      Essential for site functionality, security, and user
+                      experience. These cookies cannot be disabled.
                     </p>
                   </div>
                   <div className="flex-shrink-0">
@@ -175,7 +178,8 @@ export const CookieConsentBanner = () => {
                       Analytics Cookies
                     </h3>
                     <p className="text-sm text-gray-600 mt-1">
-                      Help us understand how users interact with our application.
+                      Help us understand how users interact with our
+                      application.
                     </p>
                   </div>
                   <div className="flex-shrink-0">

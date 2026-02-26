@@ -1,5 +1,5 @@
-import { create } from 'zustand';
-import { persist } from 'zustand/middleware';
+import { create } from "zustand";
+import { persist } from "zustand/middleware";
 
 interface CookiePreferences {
   analytics: boolean;
@@ -30,13 +30,14 @@ export const useCookieStore = create<CookieStore>()(
       consentGiven: false,
       setPreferences: (preferences) => set({ preferences }),
       setConsentGiven: (given) => set({ consentGiven: given }),
-      resetCookies: () => set({
-        preferences: defaultPreferences,
-        consentGiven: false,
-      }),
+      resetCookies: () =>
+        set({
+          preferences: defaultPreferences,
+          consentGiven: false,
+        }),
     }),
     {
-      name: 'cookie-consent-storage',
-    }
-  )
+      name: "cookie-consent-storage",
+    },
+  ),
 );
