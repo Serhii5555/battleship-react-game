@@ -98,12 +98,14 @@ public/                  # Static files
 This application is **GDPR-compliant and includes built-in cookie management**:
 
 ### Cookie Consent Banner
+
 - **Automatic Display:** Shows on first visit
 - **User-Friendly:** Clear categorization of cookie types
 - **Customizable:** Users can accept all, reject all, or choose specific categories
 - **Persistent:** Preferences are saved in browser storage
 
 ### Cookie Categories
+
 1. **Necessary Cookies** (Always Enabled)
    - Essential for site functionality and security
    - Session management and CSRF protection
@@ -125,10 +127,13 @@ This application is **GDPR-compliant and includes built-in cookie management**:
    - Third-party advertising partners
 
 ### Privacy Policy
+
 For detailed information about how we handle your data and your rights under GDPR, please review our [Privacy Policy](PRIVACY_POLICY.md).
 
 ### Your Rights Under GDPR
+
 You have the right to:
+
 - Know what personal data we collect
 - Request access to your data
 - Request deletion of your data ("Right to be Forgotten")
@@ -252,6 +257,58 @@ git status
 2. Run in development mode: `npm run dev`
 3. Review dependencies documentation: [DEPENDENCIES_LICENSES.md](DEPENDENCIES_LICENSES.md)
 4. Comply with MIT license terms when distributing
+
+## Documentation & Legal
+
+### User Documentation
+
+- **[USER_GUIDE.md](USER_GUIDE.md)** - Complete user guide with game instructions, features, tips, and troubleshooting
+  - How to play the game
+  - Game rules and mechanics
+  - Feature overview and settings
+  - Difficulty levels explained
+  - Strategy tips for beginners and advanced players
+  - Technical requirements and compatibility
+  - FAQ and troubleshooting section
+
+### Legal & Compliance Documents
+
+- **[GDPR.md](GDPR.md)** - Comprehensive GDPR compliance guide
+  - Overview of GDPR regulation
+  - Your 8 fundamental rights under GDPR
+  - Personal data we collect and legal basis
+  - How to exercise your rights
+  - Data retention information
+  - International data transfer details
+  - Our compliance measures and commitments
+
+- **[PRIVACY_POLICY.md](PRIVACY_POLICY.md)** - Our comprehensive privacy policy with GDPR compliance
+  - Cookie categories and usage
+  - Personal data handling
+  - Your GDPR rights (Articles 15-21)
+  - Data retention policies
+  - Contact for privacy inquiries
+
+- **[EULA.md](EULA.md)** - End User License Agreement
+  - License grant and permitted uses
+  - Permitted and prohibited uses
+  - Intellectual property rights
+  - Warranty disclaimers
+  - Liability limitations
+  - Termination conditions
+
+- **[TERMS_OF_USE.md](TERMS_OF_USE.md)** - Terms of Service and Use
+  - Acceptable use policy
+  - Game-specific rules
+  - User conduct standards
+  - Dispute resolution
+  - Service modifications
+  - Contact information for legal matters
+
+### License Information
+
+- **[LICENSE](LICENSE)** - MIT License for the project
+- **[DEPENDENCIES_LICENSES.md](DEPENDENCIES_LICENSES.md)** - Complete license list for all dependencies
 
 ---
 

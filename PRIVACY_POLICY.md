@@ -13,6 +13,7 @@ Battleship Game ("we," "us," "our," or "Company") is committed to protecting you
 These cookies are essential for the website to function properly. They enable basic features like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
 
 **Examples:**
+
 - Session cookies for user authentication
 - Security tokens for CSRF protection
 - User preference cookies for core functionality
@@ -25,6 +26,7 @@ These cookies are essential for the website to function properly. They enable ba
 These cookies remember your choices to provide a more personalized experience. They can be disabled, but this may affect the functionality of certain features.
 
 **Examples:**
+
 - Game settings (difficulty level, language, theme preferences)
 - Accessibility settings
 - Previously visited pages
@@ -36,6 +38,7 @@ These cookies remember your choices to provide a more personalized experience. T
 These cookies help us understand how visitors use our website. The information collected is aggregated and therefore anonymous. It includes the number of visitors, the pages visited, and how visitors interact with the website.
 
 **Examples:**
+
 - Google Analytics tracking
 - Page view and click tracking
 - Performance monitoring
@@ -48,6 +51,7 @@ These cookies help us understand how visitors use our website. The information c
 These cookies are used to track visitors across websites to display relevant ads. This information helps advertisers target their ads more effectively and helps us understand campaign effectiveness.
 
 **Examples:**
+
 - Third-party advertising pixels
 - Retargeting cookies
 - Social media tracking
@@ -57,20 +61,21 @@ These cookies are used to track visitors across websites to display relevant ads
 
 ## 2. How We Use Cookies
 
-| Category | Purpose | Duration | Provider |
-|----------|---------|----------|----------|
-| Necessary | Authentication & Session Management | Session | Our Server |
-| Necessary | Security & CSRF Protection | Session | Our Server |
-| Functional | Game Preferences | 1 Year | Our Server |
-| Functional | Accessibility Settings | 1 Year | Our Server |
-| Analytics | Usage Statistics | 2 Years | Google Analytics |
-| Marketing | Advertising & Retargeting | 90 Days | Third Parties |
+| Category   | Purpose                             | Duration | Provider         |
+| ---------- | ----------------------------------- | -------- | ---------------- |
+| Necessary  | Authentication & Session Management | Session  | Our Server       |
+| Necessary  | Security & CSRF Protection          | Session  | Our Server       |
+| Functional | Game Preferences                    | 1 Year   | Our Server       |
+| Functional | Accessibility Settings              | 1 Year   | Our Server       |
+| Analytics  | Usage Statistics                    | 2 Years  | Google Analytics |
+| Marketing  | Advertising & Retargeting           | 90 Days  | Third Parties    |
 
 ## 3. Your Right to Consent
 
-Under GDPR (EU 2016/679), we obtain your **explicit inform consent** before placing any non-necessary cookies on your device. 
+Under GDPR (EU 2016/679), we obtain your **explicit inform consent** before placing any non-necessary cookies on your device.
 
 **You have the right to:**
+
 - Accept all cookies
 - Reject all non-necessary cookies
 - Choose specific cookie categories to enable/disable
@@ -91,35 +96,42 @@ We implement appropriate technical and organizational measures to protect your p
 As a data subject, you have the following rights:
 
 ### 5.1 Right of Access (Article 15)
+
 You have the right to obtain confirmation as to whether your personal data is being processed and if so, to request access to such data.
 
 ### 5.2 Right to Rectification (Article 16)
+
 You have the right to obtain the rectification of inaccurate personal data and to complete incomplete data without undue delay.
 
 ### 5.3 Right to Erasure (Article 17)
+
 You have the right to request the erasure of your personal data (the "right to be forgotten") in certain circumstances.
 
 ### 5.4 Right to Restrict Processing (Article 18)
+
 You have the right to request the restriction of processing of your personal data in certain circumstances.
 
 ### 5.5 Right to Data Portability (Article 20)
+
 You have the right to receive your personal data in a structured, commonly used, and machine-readable format and have the right to transmit those data to another controller.
 
 ### 5.6 Right to Object (Article 21)
+
 You have the right to object, on grounds relating to your particular situation, at any time to the processing of your personal data.
 
 ### 5.7 Right to Lodge a Complaint (Article 77)
+
 You have the right to lodge a complaint with a supervisory authority in the EU or EEA member state where you reside if you believe your rights have been violated.
 
 ## 6. Data Retention
 
-| Data Type | Retention Period | Reason |
-|-----------|-----------------|--------|
-| Session Data | Until session ends | Operational necessity |
-| Game Preferences | Until deleted by user | User request |
-| Analytics Data | 26 months | Service optimization |
-| Marketing Data | 90 days | Advertising purposes |
-| Cookies | As per cookie settings | User consent |
+| Data Type        | Retention Period       | Reason                |
+| ---------------- | ---------------------- | --------------------- |
+| Session Data     | Until session ends     | Operational necessity |
+| Game Preferences | Until deleted by user  | User request          |
+| Analytics Data   | 26 months              | Service optimization  |
+| Marketing Data   | 90 days                | Advertising purposes  |
+| Cookies          | As per cookie settings | User consent          |
 
 ## 7. Third-Party Services
 
