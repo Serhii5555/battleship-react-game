@@ -1,7 +1,7 @@
 {
   "name": "battleship",
   "version": "1.0.0",
-  "description": "Морський бій - гра на React з адаптивним дизайном та різними рівнями складності",
+  "description": "Battleship - a classic naval battle game implemented in React with responsive design and multiple difficulty levels",
   "author": "Battleship React Game Contributors",
   "license": "MIT",
   "private": false,

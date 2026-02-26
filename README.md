@@ -1,65 +1,65 @@
-# ⚓ Морський бій (Battleship 5×5)
+# ⚓ Battleship (5×5)
 
-Гра "Морський бій" - класична настільна гра, реалізована на React з адаптивним дизайном та різними рівнями складності.
+A classic naval battle board game implemented in React with responsive design and multiple difficulty levels.
 
-## Про проект
+## About the Project
 
-**Версія:** 1.0.0  
-**Тип ліцензії:** [MIT License](LICENSE)  
-**Автори:** Battleship React Game Contributors  
-**Мова:** TypeScript + React + Vite
+**Version:** 1.0.0  
+**License:** [MIT License](LICENSE)  
+**Authors:** Battleship React Game Contributors  
+**Stack:** TypeScript + React + Vite
 
-### Основні технології
+### Core Technologies
 
-- **React 19** - бібліотека для побудови UI
-- **TypeScript 5.9** - типізація JavaScript
-- **Vite 7** - швидкий збирач модулів
-- **Tailwind CSS 4** - утилітарний CSS фреймворк
-- **Framer Motion 12** - анімації
-- **React Router 7** - маршрутизація
-- **Zustand 5** - управління станом
-- **React Hook Form 7** - управління формами
-- **Yup 1.7** - валідація форм
+- **React 19** - UI library for building user interfaces
+- **TypeScript 5.9** - JavaScript with static typing
+- **Vite 7** - next-generation build tool
+- **Tailwind CSS 4** - utility-first CSS framework
+- **Framer Motion 12** - animation library
+- **React Router 7** - client-side routing
+- **Zustand 5** - state management
+- **React Hook Form 7** - form state management
+- **Yup 1.7** - schema validation library
 
-## Встановлення та запуск
+## Installation and Setup
 
-### 1. Клонування репозиторію
+### 1. Clone the Repository
 
 ```bash
-git clone https://git.ztu.edu.ua/ipz233_bsv/react-project
+git clone https://github.com/Serhii5555/battleship-react-game
 cd battleship-react-game
 ```
 
-### 2. Встановлення залежностей
+### 2. Install Dependencies
 
 ```bash
 cd battleship
 npm install
 ```
 
-### 3. Запуск у режимі розробки
+### 3. Run in Development Mode
 
 ```bash
 npm run dev
 ```
 
-Додаток буде доступний за адресою: `http://localhost:5173` (порт може бути інший)
+The application will be available at: `http://localhost:5173` (port may vary)
 
-## Доступні команди
+## Available Commands
 
-| Команда | Опис |
-|---------|------|
-| `npm run dev` | Запуск у режимі розробки з HMR (Hot Module Replacement) |
-| `npm run build` | Збирання проекту для продакшену |
-| `npm run lint` | Перевірка коду ESLint |
-| `npm run preview` | Переглід збудованого проекту |
+| Command | Description |
+|---------|-------------|
+| `npm run dev` | Run in development mode with HMR (Hot Module Replacement) |
+| `npm run build` | Build the project for production |
+| `npm run lint` | Check code with ESLint |
+| `npm run preview` | Preview the built project |
 
-## Структура проекту
+## Project Structure
 
 ```
 src/
-├── assets/              # Медіа файли та статичні ресурси
-├── components/          # Переиспользуемые React компоненти
+├── assets/              # Media files and static resources
+├── components/          # Reusable React components
 │   ├── Container.tsx
 │   ├── GameButton.tsx
 │   ├── GameResultModal.tsx
@@ -68,139 +68,139 @@ src/
 │   ├── PageComponent.tsx
 │   ├── SelectDropdown.tsx
 │   └── SubText.tsx
-├── constants/           # Константи додатку
-│   └── difficulties.ts   # Рівні складності гри
-├── context/             # React Context для глобального стану
+├── constants/           # Application constants
+│   └── difficulties.ts   # Game difficulty levels
+├── context/             # React Context for global state
 │   └── GameSettingsContext.tsx
-├── hooks/               # Кастомні React хуки
-│   └── useGame.tsx      # Основна логіка гри
-├── pages/               # Сторінки додатку
-│   ├── GamePage.tsx     # Сторінка гри
-│   ├── SettingsPage.tsx # Сторінка налаштувань
-│   ├── StartPage.tsx    # Початкова сторінка
-│   └── UserPage.tsx     # Сторінка користувача
-├── router/              # Конфігурація маршрутизації
+├── hooks/               # Custom React hooks
+│   └── useGame.tsx      # Core game logic
+├── pages/               # Application pages
+│   ├── GamePage.tsx     # Game page
+│   ├── SettingsPage.tsx # Settings page
+│   ├── StartPage.tsx    # Start/welcome page
+│   └── UserPage.tsx     # User profile page
+├── router/              # Routing configuration
 │   └── AppRouter.tsx
-├── store/               # Zustand сховище станів
+├── store/               # Zustand state store
 │   └── gameStore.ts
-├── styles/              # Глобальні стилі
+├── styles/              # Global styles
 │   └── global.css
-├── App.tsx              # Основний компонент
-└── main.tsx             # Точка входу
+├── App.tsx              # Main application component
+└── main.tsx             # Application entry point
 
-public/                  # Статичні файли
+public/                  # Static files
 ```
 
-## Конфігурація
+## Configuration
 
 ### TypeScript
 
-Проект використовує TypeScript з наступною конфігурацією:
-- **Версія:** ~5.9.3
+The project uses TypeScript with the following configuration:
+- **Version:** ~5.9.3
 - **Target:** ES2020
 - **Module:** ESNext
 - **JSX:** react-jsx
 
-Файли конфігурації:
-- `tsconfig.json` - базова конфігурація
-- `tsconfig.app.json` - конфігурація для додатку
-- `tsconfig.node.json` - конфігурація для Node.js скриптів
+Configuration files:
+- `tsconfig.json` - base configuration
+- `tsconfig.app.json` - application configuration
+- `tsconfig.node.json` - Node.js scripts configuration
 
 ### ESLint
 
-Проект використовує ESLint для забезпечення якості коду:
-- **Версія:** 9.36.0
-- **Конфігураційний файл:** `eslint.config.js`
+The project uses ESLint for code quality assurance:
+- **Version:** 9.36.0
+- **Config File:** `eslint.config.js`
 
-Запуск перевірки:
+Run code check:
 ```bash
 npm run lint
 ```
 
 ### Vite
 
-Конфігурація Vite знаходиться в `vite.config.ts`:
-- Плагін React для JSX/TSX
-- Інтеграція Tailwind CSS
-- Оптимізація для продакшену
+Vite configuration is located in `vite.config.ts`:
+- React plugin for JSX/TSX
+- Tailwind CSS integration
+- Production optimization
 
-## Залежності
+## Dependencies
 
-### Production залежності
+### Production Dependencies
 
-- `@hookform/resolvers` - інтеграція з React Hook Form
-- `@tailwindcss/vite` - інтеграція Tailwind CSS
-- `framer-motion` - бібліотека анімацій
-- `lucide-react` - набір іконок
-- `react` - основна бібліотека
-- `react-dom` - робота з DOM
-- `react-hook-form` - управління формами
-- `react-router-dom` - маршрутизація
-- `yup` - валідація схеми
-- `zustand` - управління станом
+- `@hookform/resolvers` - integration with React Hook Form
+- `@tailwindcss/vite` - Tailwind CSS Vite integration
+- `framer-motion` - animation library
+- `lucide-react` - icon set
+- `react` - core library
+- `react-dom` - DOM manipulation
+- `react-hook-form` - form state management
+- `react-router-dom` - client-side routing
+- `yup` - schema validation
+- `zustand` - state management
 
-### Development залежності
+### Development Dependencies
 
-- `@types/react` - типи для React
-- `@types/react-dom` - типи для React DOM
-- `@types/node` - типи для Node.js
-- `@vitejs/plugin-react` - Vite плагін для React
-- `autoprefixer` - обробка CSS префіксів
-- `eslint` та плагіни - лінтинг коду
-- `postcss` - обробка CSS
-- `tailwindcss` - CSS фреймворк
-- `typescript` - типізація
-- `vite` - збирач модулів
+- `@types/react` - TypeScript types for React
+- `@types/react-dom` - TypeScript types for React DOM
+- `@types/node` - TypeScript types for Node.js
+- `@vitejs/plugin-react` - Vite React plugin
+- `autoprefixer` - CSS vendor prefix processing
+- `eslint` and plugins - code linting
+- `postcss` - CSS processing
+- `tailwindcss` - CSS framework
+- `typescript` - static typing
+- `vite` - build tool
 
-## Ліцензія та авторство
+## License and Attribution
 
-### Ліцензія
+### License
 
-Цей проект розповсюджується під ліцензією **MIT License**.
+This project is distributed under the **MIT License**.
 
-Повний текст ліцензії: [LICENSE](LICENSE)
+Full license text: [LICENSE](LICENSE)
 
-### Авторство
+### Attribution
 
 **Copyright © 2026 Battleship React Game Contributors**
 
-Всі права застережені.
+All rights reserved.
 
-### Залежності та їх ліцензії
+### Dependencies and their Licenses
 
-Проект використовує численні бібліотеки з відкритим кодом. Повний список залежностей та їх ліцензій доступний у файлі:
+The project uses numerous open-source libraries. A complete list of dependencies and their licenses is available in:
 
 [DEPENDENCIES_LICENSES.md](DEPENDENCIES_LICENSES.md)
 
-## Контроль якості
+## Quality Assurance
 
-### Перевірка ліцензій залежностей
+### Dependency License Verification
 
-Всі залежності проекту перевірені на ліцензійну сумісність за допомогою інструмента **license-checker**.
+All project dependencies have been verified for license compatibility using the **license-checker** tool.
 
-Результати перевірки записані в [DEPENDENCIES_LICENSES.md](DEPENDENCIES_LICENSES.md).
+Verification results are recorded in [DEPENDENCIES_LICENSES.md](DEPENDENCIES_LICENSES.md).
 
-Усі використовувані залежності мають сумісні ліцензії (MIT, Apache-2.0 та ін.) та можуть бути використані у комерційних та некомерційних проектах.
+All used dependencies have compatible licenses (MIT, Apache-2.0, etc.) and can be used in both commercial and non-commercial projects.
 
-## Git конфігурація
+## Version Control
 
-Проект використовує Git для версіонування:
+The project uses Git for version control:
 
 ```bash
-# Переглід історії
+# View history
 git log
 
-# Перегляд змін
+# Check current status
 git status
 ```
 
-## Подальші кроки
+## Getting Started
 
-1. Встановіть залежності: `npm install`
-2. Запустіть у режимі розробки: `npm run dev`
-3. Переглядайте документацію залежностей: [DEPENDENCIES_LICENSES.md](DEPENDENCIES_LICENSES.md)
-4. Дотримуйтеся MIT ліцензії при розповсюдженні
+1. Install dependencies: `npm install`
+2. Run in development mode: `npm run dev`
+3. Review dependencies documentation: [DEPENDENCIES_LICENSES.md](DEPENDENCIES_LICENSES.md)
+4. Comply with MIT license terms when distributing
 
 ---
 
-**Остання оновлення:** Лютий 2026
+**Last Updated:** February 2026
