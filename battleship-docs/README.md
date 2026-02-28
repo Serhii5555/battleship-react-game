@@ -1,25 +1,21 @@
-# Website
+# Battleship Docs
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This documentation website is built using [Docusaurus](https://docusaurus.io/), a modern static site generator for React.
 
 ## Installation
 
+Install dependencies:
+
 ```bash
-npm
+npm install
 ```
 
 ## Local Development
+
+Start the local development server:
 
 ```bash
 npm start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-npm build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Open your browser at http://localhost:3000 to view the docs.
