@@ -1,228 +1,383 @@
-[@babel/code-frame@7.27.1](https://github.com/babel/babel) - MIT
-[@babel/compat-data@7.28.4](https://github.com/babel/babel) - MIT
-[@babel/core@7.28.4](https://github.com/babel/babel) - MIT
-[@babel/generator@7.28.3](https://github.com/babel/babel) - MIT
-[@babel/helper-compilation-targets@7.27.2](https://github.com/babel/babel) - MIT
-[@babel/helper-globals@7.28.0](https://github.com/babel/babel) - MIT
-[@babel/helper-module-imports@7.27.1](https://github.com/babel/babel) - MIT
-[@babel/helper-module-transforms@7.28.3](https://github.com/babel/babel) - MIT
-[@babel/helper-plugin-utils@7.27.1](https://github.com/babel/babel) - MIT
-[@babel/helper-string-parser@7.27.1](https://github.com/babel/babel) - MIT
-[@babel/helper-validator-identifier@7.27.1](https://github.com/babel/babel) - MIT
-[@babel/helper-validator-option@7.27.1](https://github.com/babel/babel) - MIT
-[@babel/helpers@7.28.4](https://github.com/babel/babel) - MIT
-[@babel/parser@7.28.4](https://github.com/babel/babel) - MIT
-[@babel/plugin-transform-react-jsx-self@7.27.1](https://github.com/babel/babel) - MIT
-[@babel/plugin-transform-react-jsx-source@7.27.1](https://github.com/babel/babel) - MIT
-[@babel/template@7.27.2](https://github.com/babel/babel) - MIT
-[@babel/traverse@7.28.4](https://github.com/babel/babel) - MIT
-[@babel/types@7.28.4](https://github.com/babel/babel) - MIT
-[@esbuild/win32-x64@0.25.10](https://github.com/evanw/esbuild) - MIT
-[@eslint-community/eslint-utils@4.9.0](https://github.com/eslint-community/eslint-utils) - MIT
-[@eslint-community/regexpp@4.12.1](https://github.com/eslint-community/regexpp) - MIT
-[@eslint/config-array@0.21.0](https://github.com/eslint/rewrite) - Apache-2.0
-[@eslint/config-helpers@0.4.0](https://github.com/eslint/rewrite) - Apache-2.0
-[@eslint/core@0.16.0](https://github.com/eslint/rewrite) - Apache-2.0
-[@eslint/eslintrc@3.3.1](https://github.com/eslint/eslintrc) - MIT
-[@eslint/js@9.37.0](https://github.com/eslint/eslint) - MIT
-[@eslint/object-schema@2.1.6](https://github.com/eslint/rewrite) - Apache-2.0
-[@eslint/plugin-kit@0.4.0](https://github.com/eslint/rewrite) - Apache-2.0
-[@hookform/resolvers@5.2.2](https://github.com/react-hook-form/resolvers) - MIT
-[@humanfs/core@0.19.1](https://github.com/humanwhocodes/humanfs) - Apache-2.0
-[@humanfs/node@0.16.7](https://github.com/humanwhocodes/humanfs) - Apache-2.0
-[@humanwhocodes/module-importer@1.0.1](https://github.com/humanwhocodes/module-importer) - Apache-2.0
-[@humanwhocodes/retry@0.4.3](https://github.com/humanwhocodes/retry) - Apache-2.0
-[@jridgewell/gen-mapping@0.3.13](https://github.com/jridgewell/sourcemaps) - MIT
-[@jridgewell/remapping@2.3.5](https://github.com/jridgewell/sourcemaps) - MIT
-[@jridgewell/resolve-uri@3.1.2](https://github.com/jridgewell/resolve-uri) - MIT
-[@jridgewell/sourcemap-codec@1.5.5](https://github.com/jridgewell/sourcemaps) - MIT
-[@jridgewell/trace-mapping@0.3.31](https://github.com/jridgewell/sourcemaps) - MIT
-[@nodelib/fs.scandir@2.1.5](https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.scandir) - MIT
-[@nodelib/fs.stat@2.0.5](https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.stat) - MIT
-[@nodelib/fs.walk@1.2.8](https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.walk) - MIT
-[@rolldown/pluginutils@1.0.0-beta.38](https://github.com/rolldown/rolldown) - MIT
-[@rollup/rollup-win32-x64-gnu@4.52.4](https://github.com/rollup/rollup) - MIT
-[@rollup/rollup-win32-x64-msvc@4.52.4](https://github.com/rollup/rollup) - MIT
-[@standard-schema/utils@0.3.0](https://github.com/standard-schema/standard-schema) - MIT
-[@tailwindcss/node@4.1.17](https://github.com/tailwindlabs/tailwindcss) - MIT
-[@tailwindcss/oxide-win32-x64-msvc@4.1.17](https://github.com/tailwindlabs/tailwindcss) - MIT
-[@tailwindcss/oxide@4.1.17](https://github.com/tailwindlabs/tailwindcss) - MIT
-[@tailwindcss/vite@4.1.17](https://github.com/tailwindlabs/tailwindcss) - MIT
-[@types/babel__core@7.20.5](https://github.com/DefinitelyTyped/DefinitelyTyped) - MIT
-[@types/babel__generator@7.27.0](https://github.com/DefinitelyTyped/DefinitelyTyped) - MIT
-[@types/babel__template@7.4.4](https://github.com/DefinitelyTyped/DefinitelyTyped) - MIT
-[@types/babel__traverse@7.28.0](https://github.com/DefinitelyTyped/DefinitelyTyped) - MIT
-[@types/estree@1.0.8](https://github.com/DefinitelyTyped/DefinitelyTyped) - MIT
-[@types/json-schema@7.0.15](https://github.com/DefinitelyTyped/DefinitelyTyped) - MIT
-[@types/node@24.7.0](https://github.com/DefinitelyTyped/DefinitelyTyped) - MIT
-[@types/react-dom@19.2.1](https://github.com/DefinitelyTyped/DefinitelyTyped) - MIT
-[@types/react@19.2.2](https://github.com/DefinitelyTyped/DefinitelyTyped) - MIT
-[@typescript-eslint/eslint-plugin@8.46.0](https://github.com/typescript-eslint/typescript-eslint) - MIT
-[@typescript-eslint/parser@8.46.0](https://github.com/typescript-eslint/typescript-eslint) - MIT
-[@typescript-eslint/project-service@8.46.0](https://github.com/typescript-eslint/typescript-eslint) - MIT
-[@typescript-eslint/scope-manager@8.46.0](https://github.com/typescript-eslint/typescript-eslint) - MIT
-[@typescript-eslint/tsconfig-utils@8.46.0](https://github.com/typescript-eslint/typescript-eslint) - MIT
-[@typescript-eslint/type-utils@8.46.0](https://github.com/typescript-eslint/typescript-eslint) - MIT
-[@typescript-eslint/types@8.46.0](https://github.com/typescript-eslint/typescript-eslint) - MIT
-[@typescript-eslint/typescript-estree@8.46.0](https://github.com/typescript-eslint/typescript-eslint) - MIT
-[@typescript-eslint/utils@8.46.0](https://github.com/typescript-eslint/typescript-eslint) - MIT
-[@typescript-eslint/visitor-keys@8.46.0](https://github.com/typescript-eslint/typescript-eslint) - MIT
-[@vitejs/plugin-react@5.0.4](https://github.com/vitejs/vite-plugin-react) - MIT
-[acorn-jsx@5.3.2](https://github.com/acornjs/acorn-jsx) - MIT
-[acorn@8.15.0](https://github.com/acornjs/acorn) - MIT
-[ajv@6.12.6](https://github.com/ajv-validator/ajv) - MIT
-[ansi-styles@4.3.0](https://github.com/chalk/ansi-styles) - MIT
-[argparse@2.0.1](https://github.com/nodeca/argparse) - Python-2.0
-[autoprefixer@10.4.22](https://github.com/postcss/autoprefixer) - MIT
-[balanced-match@1.0.2](https://github.com/juliangruber/balanced-match) - MIT
-[baseline-browser-mapping@2.8.26](https://github.com/web-platform-dx/baseline-browser-mapping) - Apache-2.0
-[battleship@1.0.0](undefined) - MIT
-[brace-expansion@1.1.12](https://github.com/juliangruber/brace-expansion) - MIT
-[brace-expansion@2.0.2](https://github.com/juliangruber/brace-expansion) - MIT
-[braces@3.0.3](https://github.com/micromatch/braces) - MIT
-[browserslist@4.28.0](https://github.com/browserslist/browserslist) - MIT
-[callsites@3.1.0](https://github.com/sindresorhus/callsites) - MIT
-[caniuse-lite@1.0.30001754](https://github.com/browserslist/caniuse-lite) - CC-BY-4.0
-[chalk@4.1.2](https://github.com/chalk/chalk) - MIT
-[color-convert@2.0.1](https://github.com/Qix-/color-convert) - MIT
-[color-name@1.1.4](https://github.com/colorjs/color-name) - MIT
-[concat-map@0.0.1](https://github.com/substack/node-concat-map) - MIT
-[convert-source-map@2.0.0](https://github.com/thlorenz/convert-source-map) - MIT
-[cookie@1.0.2](https://github.com/jshttp/cookie) - MIT
-[cross-spawn@7.0.6](https://github.com/moxystudio/node-cross-spawn) - MIT
-[csstype@3.1.3](https://github.com/frenic/csstype) - MIT
-[debug@4.4.3](https://github.com/debug-js/debug) - MIT
-[deep-is@0.1.4](https://github.com/thlorenz/deep-is) - MIT
-[detect-libc@2.1.2](https://github.com/lovell/detect-libc) - Apache-2.0
-[electron-to-chromium@1.5.250](https://github.com/kilian/electron-to-chromium) - ISC
-[enhanced-resolve@5.18.3](https://github.com/webpack/enhanced-resolve) - MIT
-[esbuild@0.25.10](https://github.com/evanw/esbuild) - MIT
-[escalade@3.2.0](https://github.com/lukeed/escalade) - MIT
-[escape-string-regexp@4.0.0](https://github.com/sindresorhus/escape-string-regexp) - MIT
-[eslint-plugin-react-hooks@5.2.0](https://github.com/facebook/react) - MIT
-[eslint-plugin-react-refresh@0.4.23](https://github.com/ArnaudBarre/eslint-plugin-react-refresh) - MIT
-[eslint-scope@8.4.0](https://github.com/eslint/js) - BSD-2-Clause
-[eslint-visitor-keys@3.4.3](https://github.com/eslint/eslint-visitor-keys) - Apache-2.0
-[eslint-visitor-keys@4.2.1](https://github.com/eslint/js) - Apache-2.0
-[eslint@9.37.0](https://github.com/eslint/eslint) - MIT
-[espree@10.4.0](https://github.com/eslint/js) - BSD-2-Clause
-[esquery@1.6.0](https://github.com/estools/esquery) - BSD-3-Clause
-[esrecurse@4.3.0](https://github.com/estools/esrecurse) - BSD-2-Clause
-[estraverse@5.3.0](https://github.com/estools/estraverse) - BSD-2-Clause
-[esutils@2.0.3](https://github.com/estools/esutils) - BSD-2-Clause
-[fast-deep-equal@3.1.3](https://github.com/epoberezkin/fast-deep-equal) - MIT
-[fast-glob@3.3.3](https://github.com/mrmlnc/fast-glob) - MIT
-[fast-json-stable-stringify@2.1.0](https://github.com/epoberezkin/fast-json-stable-stringify) - MIT
-[fast-levenshtein@2.0.6](https://github.com/hiddentao/fast-levenshtein) - MIT
-[fastq@1.19.1](https://github.com/mcollina/fastq) - ISC
-[fdir@6.5.0](https://github.com/thecodrr/fdir) - MIT
-[file-entry-cache@8.0.0](https://github.com/jaredwray/file-entry-cache) - MIT
-[fill-range@7.1.1](https://github.com/jonschlinkert/fill-range) - MIT
-[find-up@5.0.0](https://github.com/sindresorhus/find-up) - MIT
-[flat-cache@4.0.1](https://github.com/jaredwray/flat-cache) - MIT
-[flatted@3.3.3](https://github.com/WebReflection/flatted) - ISC
-[fraction.js@5.3.4](https://github.com/rawify/Fraction.js) - MIT
-[framer-motion@12.23.24](https://github.com/motiondivision/motion) - MIT
-[gensync@1.0.0-beta.2](https://github.com/loganfsmyth/gensync) - MIT
-[glob-parent@5.1.2](https://github.com/gulpjs/glob-parent) - ISC
-[glob-parent@6.0.2](https://github.com/gulpjs/glob-parent) - ISC
-[globals@14.0.0](https://github.com/sindresorhus/globals) - MIT
-[globals@16.4.0](https://github.com/sindresorhus/globals) - MIT
-[graceful-fs@4.2.11](https://github.com/isaacs/node-graceful-fs) - ISC
-[graphemer@1.4.0](https://github.com/flmnt/graphemer) - MIT
-[has-flag@4.0.0](https://github.com/sindresorhus/has-flag) - MIT
-[ignore@5.3.2](https://github.com/kaelzhang/node-ignore) - MIT
-[ignore@7.0.5](https://github.com/kaelzhang/node-ignore) - MIT
-[import-fresh@3.3.1](https://github.com/sindresorhus/import-fresh) - MIT
-[imurmurhash@0.1.4](https://github.com/jensyt/imurmurhash-js) - MIT
-[is-extglob@2.1.1](https://github.com/jonschlinkert/is-extglob) - MIT
-[is-glob@4.0.3](https://github.com/micromatch/is-glob) - MIT
-[is-number@7.0.0](https://github.com/jonschlinkert/is-number) - MIT
-[isexe@2.0.0](https://github.com/isaacs/isexe) - ISC
-[jiti@2.6.1](https://github.com/unjs/jiti) - MIT
-[js-cookie@3.0.5](https://github.com/js-cookie/js-cookie) - MIT
-[js-tokens@4.0.0](https://github.com/lydell/js-tokens) - MIT
-[js-yaml@4.1.0](https://github.com/nodeca/js-yaml) - MIT
-[jsesc@3.1.0](https://github.com/mathiasbynens/jsesc) - MIT
-[json-buffer@3.0.1](https://github.com/dominictarr/json-buffer) - MIT
-[json-schema-traverse@0.4.1](https://github.com/epoberezkin/json-schema-traverse) - MIT
-[json-stable-stringify-without-jsonify@1.0.1](https://github.com/samn/json-stable-stringify) - MIT
-[json5@2.2.3](https://github.com/json5/json5) - MIT
-[keyv@4.5.4](https://github.com/jaredwray/keyv) - MIT
-[levn@0.4.1](https://github.com/gkz/levn) - MIT
-[lightningcss-win32-x64-msvc@1.30.2](https://github.com/parcel-bundler/lightningcss) - MPL-2.0
-[lightningcss@1.30.2](https://github.com/parcel-bundler/lightningcss) - MPL-2.0
-[locate-path@6.0.0](https://github.com/sindresorhus/locate-path) - MIT
-[lodash.merge@4.6.2](https://github.com/lodash/lodash) - MIT
-[lru-cache@5.1.1](https://github.com/isaacs/node-lru-cache) - ISC
-[lucide-react@0.553.0](https://github.com/lucide-icons/lucide) - ISC
-[magic-string@0.30.21](https://github.com/Rich-Harris/magic-string) - MIT
-[merge2@1.4.1](https://github.com/teambition/merge2) - MIT
-[micromatch@4.0.8](https://github.com/micromatch/micromatch) - MIT
-[minimatch@3.1.2](https://github.com/isaacs/minimatch) - ISC
-[minimatch@9.0.5](https://github.com/isaacs/minimatch) - ISC
-[motion-dom@12.23.23](https://github.com/motiondivision/motion) - MIT
-[motion-utils@12.23.6](https://github.com/motiondivision/motion) - MIT
-[ms@2.1.3](https://github.com/vercel/ms) - MIT
-[nanoid@3.3.11](https://github.com/ai/nanoid) - MIT
-[natural-compare@1.4.0](https://github.com/litejs/natural-compare-lite) - MIT
-[node-releases@2.0.27](https://github.com/chicoxyzzy/node-releases) - MIT
-[normalize-range@0.1.2](https://github.com/jamestalmage/normalize-range) - MIT
-[optionator@0.9.4](https://github.com/gkz/optionator) - MIT
-[p-limit@3.1.0](https://github.com/sindresorhus/p-limit) - MIT
-[p-locate@5.0.0](https://github.com/sindresorhus/p-locate) - MIT
-[parent-module@1.0.1](https://github.com/sindresorhus/parent-module) - MIT
-[path-exists@4.0.0](https://github.com/sindresorhus/path-exists) - MIT
-[path-key@3.1.1](https://github.com/sindresorhus/path-key) - MIT
-[picocolors@1.1.1](https://github.com/alexeyraspopov/picocolors) - ISC
-[picomatch@2.3.1](https://github.com/micromatch/picomatch) - MIT
-[picomatch@4.0.3](https://github.com/micromatch/picomatch) - MIT
-[postcss-value-parser@4.2.0](https://github.com/TrySound/postcss-value-parser) - MIT
-[postcss@8.5.6](https://github.com/postcss/postcss) - MIT
-[prelude-ls@1.2.1](https://github.com/gkz/prelude-ls) - MIT
-[property-expr@2.0.6](https://github.com/jquense/expr) - MIT
-[punycode@2.3.1](https://github.com/mathiasbynens/punycode.js) - MIT
-[queue-microtask@1.2.3](https://github.com/feross/queue-microtask) - MIT
-[react-cookie-consent@10.0.1](https://github.com/Mastermindzh/react-cookie-consent) - MIT
-[react-dom@19.2.0](https://github.com/facebook/react) - MIT
-[react-hook-form@7.66.0](https://github.com/react-hook-form/react-hook-form) - MIT
-[react-refresh@0.17.0](https://github.com/facebook/react) - MIT
-[react-router-dom@7.9.3](https://github.com/remix-run/react-router) - MIT
-[react-router@7.9.3](https://github.com/remix-run/react-router) - MIT
-[react@19.2.0](https://github.com/facebook/react) - MIT
-[resolve-from@4.0.0](https://github.com/sindresorhus/resolve-from) - MIT
-[reusify@1.1.0](https://github.com/mcollina/reusify) - MIT
-[rollup@4.52.4](https://github.com/rollup/rollup) - MIT
-[run-parallel@1.2.0](https://github.com/feross/run-parallel) - MIT
-[scheduler@0.27.0](https://github.com/facebook/react) - MIT
-[semver@6.3.1](https://github.com/npm/node-semver) - ISC
-[semver@7.7.2](https://github.com/npm/node-semver) - ISC
-[set-cookie-parser@2.7.1](https://github.com/nfriedly/set-cookie-parser) - MIT
-[shebang-command@2.0.0](https://github.com/kevva/shebang-command) - MIT
-[shebang-regex@3.0.0](https://github.com/sindresorhus/shebang-regex) - MIT
-[source-map-js@1.2.1](https://github.com/7rulnik/source-map-js) - BSD-3-Clause
-[strip-json-comments@3.1.1](https://github.com/sindresorhus/strip-json-comments) - MIT
-[supports-color@7.2.0](https://github.com/chalk/supports-color) - MIT
-[tailwindcss@4.1.17](https://github.com/tailwindlabs/tailwindcss) - MIT
-[tapable@2.3.0](https://github.com/webpack/tapable) - MIT
-[tiny-case@1.0.3](https://github.com/jquense/tiny-case) - MIT
-[tinyglobby@0.2.15](https://github.com/SuperchupuDev/tinyglobby) - MIT
-[to-regex-range@5.0.1](https://github.com/micromatch/to-regex-range) - MIT
-[toposort@2.0.2](https://github.com/marcelklehr/toposort) - MIT
-[ts-api-utils@2.1.0](https://github.com/JoshuaKGoldberg/ts-api-utils) - MIT
-[tslib@2.8.1](https://github.com/Microsoft/tslib) - 0BSD
-[type-check@0.4.0](https://github.com/gkz/type-check) - MIT
-[type-fest@2.19.0](https://github.com/sindresorhus/type-fest) - (MIT OR CC0-1.0)
-[typescript-eslint@8.46.0](https://github.com/typescript-eslint/typescript-eslint) - MIT
-[typescript@5.9.3](https://github.com/microsoft/TypeScript) - Apache-2.0
-[undici-types@7.14.0](https://github.com/nodejs/undici) - MIT
-[update-browserslist-db@1.1.4](https://github.com/browserslist/update-db) - MIT
-[uri-js@4.4.1](https://github.com/garycourt/uri-js) - BSD-2-Clause
-[vite@7.1.9](https://github.com/vitejs/vite) - MIT
-[which@2.0.2](https://github.com/isaacs/node-which) - ISC
-[word-wrap@1.2.5](https://github.com/jonschlinkert/word-wrap) - MIT
-[yallist@3.1.1](https://github.com/isaacs/yallist) - ISC
-[yocto-queue@0.1.0](https://github.com/sindresorhus/yocto-queue) - MIT
-[yup@1.7.1](https://github.com/jquense/yup) - MIT
-[zustand@5.0.9](https://github.com/pmndrs/zustand) - MIT
-
+"module name","license","repository"
+"@adobe/css-tools@4.4.4","MIT","https://github.com/adobe/css-tools"
+"@babel/code-frame@7.27.1","MIT","https://github.com/babel/babel"
+"@babel/compat-data@7.28.4","MIT","https://github.com/babel/babel"
+"@babel/core@7.28.4","MIT","https://github.com/babel/babel"
+"@babel/generator@7.28.3","MIT","https://github.com/babel/babel"
+"@babel/helper-compilation-targets@7.27.2","MIT","https://github.com/babel/babel"
+"@babel/helper-globals@7.28.0","MIT","https://github.com/babel/babel"
+"@babel/helper-module-imports@7.27.1","MIT","https://github.com/babel/babel"
+"@babel/helper-module-transforms@7.28.3","MIT","https://github.com/babel/babel"
+"@babel/helper-plugin-utils@7.27.1","MIT","https://github.com/babel/babel"
+"@babel/helper-string-parser@7.27.1","MIT","https://github.com/babel/babel"
+"@babel/helper-validator-identifier@7.28.5","MIT","https://github.com/babel/babel"
+"@babel/helper-validator-option@7.27.1","MIT","https://github.com/babel/babel"
+"@babel/helpers@7.28.4","MIT","https://github.com/babel/babel"
+"@babel/parser@7.29.0","MIT","https://github.com/babel/babel"
+"@babel/plugin-transform-react-jsx-self@7.27.1","MIT","https://github.com/babel/babel"
+"@babel/plugin-transform-react-jsx-source@7.27.1","MIT","https://github.com/babel/babel"
+"@babel/runtime@7.28.6","MIT","https://github.com/babel/babel"
+"@babel/template@7.27.2","MIT","https://github.com/babel/babel"
+"@babel/traverse@7.28.4","MIT","https://github.com/babel/babel"
+"@babel/types@7.29.0","MIT","https://github.com/babel/babel"
+"@bcoe/v8-coverage@1.0.2","MIT","https://github.com/bcoe/v8-coverage"
+"@chromatic-com/storybook@5.0.1","MIT","https://github.com/chromaui/addon-visual-tests"
+"@esbuild/win32-x64@0.25.10","MIT","https://github.com/evanw/esbuild"
+"@eslint-community/eslint-utils@4.9.1","MIT","https://github.com/eslint-community/eslint-utils"
+"@eslint-community/regexpp@4.12.1","MIT","https://github.com/eslint-community/regexpp"
+"@eslint/config-array@0.21.0","Apache-2.0","https://github.com/eslint/rewrite"
+"@eslint/config-helpers@0.4.0","Apache-2.0","https://github.com/eslint/rewrite"
+"@eslint/core@0.16.0","Apache-2.0","https://github.com/eslint/rewrite"
+"@eslint/eslintrc@3.3.1","MIT","https://github.com/eslint/eslintrc"
+"@eslint/js@9.37.0","MIT","https://github.com/eslint/eslint"
+"@eslint/object-schema@2.1.6","Apache-2.0","https://github.com/eslint/rewrite"
+"@eslint/plugin-kit@0.4.0","Apache-2.0","https://github.com/eslint/rewrite"
+"@hookform/resolvers@5.2.2","MIT","https://github.com/react-hook-form/resolvers"
+"@humanfs/core@0.19.1","Apache-2.0","https://github.com/humanwhocodes/humanfs"
+"@humanfs/node@0.16.7","Apache-2.0","https://github.com/humanwhocodes/humanfs"
+"@humanwhocodes/module-importer@1.0.1","Apache-2.0","https://github.com/humanwhocodes/module-importer"
+"@humanwhocodes/retry@0.4.3","Apache-2.0","https://github.com/humanwhocodes/retry"
+"@joshwooding/vite-plugin-react-docgen-typescript@0.6.4","MIT","https://github.com/joshwooding/vite-plugin-react-docgen-typescript"
+"@jridgewell/gen-mapping@0.3.13","MIT","https://github.com/jridgewell/sourcemaps"
+"@jridgewell/remapping@2.3.5","MIT","https://github.com/jridgewell/sourcemaps"
+"@jridgewell/resolve-uri@3.1.2","MIT","https://github.com/jridgewell/resolve-uri"
+"@jridgewell/sourcemap-codec@1.5.5","MIT","https://github.com/jridgewell/sourcemaps"
+"@jridgewell/trace-mapping@0.3.31","MIT","https://github.com/jridgewell/sourcemaps"
+"@mdx-js/react@3.1.1","MIT","https://github.com/mdx-js/mdx"
+"@neoconfetti/react@1.0.0","MIT","https://github.com/puruvj/neoconfetti"
+"@nodelib/fs.scandir@2.1.5","MIT","https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.scandir"
+"@nodelib/fs.stat@2.0.5","MIT","https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.stat"
+"@nodelib/fs.walk@1.2.8","MIT","https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.walk"
+"@polka/url@1.0.0-next.29","MIT","https://github.com/lukeed/polka"
+"@rolldown/pluginutils@1.0.0-beta.38","MIT","https://github.com/rolldown/rolldown"
+"@rollup/pluginutils@5.3.0","MIT","https://github.com/rollup/plugins"
+"@rollup/rollup-win32-x64-gnu@4.52.4","MIT","https://github.com/rollup/rollup"
+"@rollup/rollup-win32-x64-msvc@4.52.4","MIT","https://github.com/rollup/rollup"
+"@standard-schema/spec@1.1.0","MIT","https://github.com/standard-schema/standard-schema"
+"@standard-schema/utils@0.3.0","MIT","https://github.com/standard-schema/standard-schema"
+"@storybook/addon-a11y@10.2.13","MIT","https://github.com/storybookjs/storybook"
+"@storybook/addon-docs@10.2.13","MIT","https://github.com/storybookjs/storybook"
+"@storybook/addon-onboarding@10.2.13","MIT","https://github.com/storybookjs/storybook"
+"@storybook/addon-vitest@10.2.13","MIT","https://github.com/storybookjs/storybook"
+"@storybook/builder-vite@10.2.13","MIT","https://github.com/storybookjs/storybook"
+"@storybook/csf-plugin@10.2.13","MIT","https://github.com/storybookjs/storybook"
+"@storybook/global@5.0.0","MIT","https://github.com/storybookjs/global"
+"@storybook/icons@2.0.1","MIT","https://github.com/storybookjs/icons"
+"@storybook/react-dom-shim@10.2.13","MIT","https://github.com/storybookjs/storybook"
+"@storybook/react-vite@10.2.13","MIT","https://github.com/storybookjs/storybook"
+"@storybook/react@10.2.13","MIT","https://github.com/storybookjs/storybook"
+"@tailwindcss/node@4.1.17","MIT","https://github.com/tailwindlabs/tailwindcss"
+"@tailwindcss/oxide-win32-x64-msvc@4.1.17","MIT","https://github.com/tailwindlabs/tailwindcss"
+"@tailwindcss/oxide@4.1.17","MIT","https://github.com/tailwindlabs/tailwindcss"
+"@tailwindcss/vite@4.1.17","MIT","https://github.com/tailwindlabs/tailwindcss"
+"@testing-library/dom@10.4.1","MIT","https://github.com/testing-library/dom-testing-library"
+"@testing-library/jest-dom@6.9.1","MIT","https://github.com/testing-library/jest-dom"
+"@testing-library/user-event@14.6.1","MIT","https://github.com/testing-library/user-event"
+"@types/aria-query@5.0.4","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/babel__core@7.20.5","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/babel__generator@7.27.0","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/babel__template@7.4.4","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/babel__traverse@7.28.0","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/chai@5.2.3","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/deep-eql@4.0.2","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/doctrine@0.0.9","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/estree@1.0.8","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/json-schema@7.0.15","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/mdx@2.0.13","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/node@24.7.0","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/react-dom@19.2.1","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/react@19.2.2","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@types/resolve@1.20.6","MIT","https://github.com/DefinitelyTyped/DefinitelyTyped"
+"@typescript-eslint/eslint-plugin@8.46.0","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/parser@8.46.0","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/project-service@8.46.0","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/project-service@8.56.1","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/scope-manager@8.46.0","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/scope-manager@8.56.1","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/tsconfig-utils@8.46.0","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/tsconfig-utils@8.56.1","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/type-utils@8.46.0","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/types@8.46.0","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/types@8.56.1","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/typescript-estree@8.46.0","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/typescript-estree@8.56.1","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/utils@8.46.0","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/utils@8.56.1","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/visitor-keys@8.46.0","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@typescript-eslint/visitor-keys@8.56.1","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"@vitejs/plugin-react@5.0.4","MIT","https://github.com/vitejs/vite-plugin-react"
+"@vitest/browser-playwright@4.0.18","MIT","https://github.com/vitest-dev/vitest"
+"@vitest/browser@4.0.18","MIT","https://github.com/vitest-dev/vitest"
+"@vitest/coverage-v8@4.0.18","MIT","https://github.com/vitest-dev/vitest"
+"@vitest/expect@3.2.4","MIT","https://github.com/vitest-dev/vitest"
+"@vitest/expect@4.0.18","MIT","https://github.com/vitest-dev/vitest"
+"@vitest/mocker@4.0.18","MIT","https://github.com/vitest-dev/vitest"
+"@vitest/pretty-format@3.2.4","MIT","https://github.com/vitest-dev/vitest"
+"@vitest/pretty-format@4.0.18","MIT","https://github.com/vitest-dev/vitest"
+"@vitest/runner@4.0.18","MIT","https://github.com/vitest-dev/vitest"
+"@vitest/snapshot@4.0.18","MIT","https://github.com/vitest-dev/vitest"
+"@vitest/spy@3.2.4","MIT","https://github.com/vitest-dev/vitest"
+"@vitest/spy@4.0.18","MIT","https://github.com/vitest-dev/vitest"
+"@vitest/utils@3.2.4","MIT","https://github.com/vitest-dev/vitest"
+"@vitest/utils@4.0.18","MIT","https://github.com/vitest-dev/vitest"
+"acorn-jsx@5.3.2","MIT","https://github.com/acornjs/acorn-jsx"
+"acorn@8.15.0","MIT","https://github.com/acornjs/acorn"
+"ajv@6.12.6","MIT","https://github.com/ajv-validator/ajv"
+"ansi-regex@5.0.1","MIT","https://github.com/chalk/ansi-regex"
+"ansi-regex@6.2.2","MIT","https://github.com/chalk/ansi-regex"
+"ansi-styles@4.3.0","MIT","https://github.com/chalk/ansi-styles"
+"ansi-styles@5.2.0","MIT","https://github.com/chalk/ansi-styles"
+"argparse@2.0.1","Python-2.0","https://github.com/nodeca/argparse"
+"aria-query@5.3.0","Apache-2.0","https://github.com/A11yance/aria-query"
+"assertion-error@2.0.1","MIT","https://github.com/chaijs/assertion-error"
+"ast-types@0.16.1","MIT","https://github.com/benjamn/ast-types"
+"ast-v8-to-istanbul@0.3.12","MIT","https://github.com/AriPerkkio/ast-v8-to-istanbul"
+"autoprefixer@10.4.22","MIT","https://github.com/postcss/autoprefixer"
+"axe-core@4.11.1","MPL-2.0","https://github.com/dequelabs/axe-core"
+"balanced-match@1.0.2","MIT","https://github.com/juliangruber/balanced-match"
+"balanced-match@4.0.4","MIT","https://github.com/juliangruber/balanced-match"
+"baseline-browser-mapping@2.8.26","Apache-2.0","https://github.com/web-platform-dx/baseline-browser-mapping"
+"battleship@1.0.0","MIT",""
+"brace-expansion@1.1.12","MIT","https://github.com/juliangruber/brace-expansion"
+"brace-expansion@2.0.2","MIT","https://github.com/juliangruber/brace-expansion"
+"brace-expansion@5.0.4","MIT","https://github.com/juliangruber/brace-expansion"
+"braces@3.0.3","MIT","https://github.com/micromatch/braces"
+"browserslist@4.28.0","MIT","https://github.com/browserslist/browserslist"
+"bundle-name@4.1.0","MIT","https://github.com/sindresorhus/bundle-name"
+"callsites@3.1.0","MIT","https://github.com/sindresorhus/callsites"
+"caniuse-lite@1.0.30001754","CC-BY-4.0","https://github.com/browserslist/caniuse-lite"
+"chai@5.3.3","MIT","https://github.com/chaijs/chai"
+"chai@6.2.2","MIT","https://github.com/chaijs/chai"
+"chalk@4.1.2","MIT","https://github.com/chalk/chalk"
+"check-error@2.1.3","MIT","https://github.com/chaijs/check-error"
+"chromatic@13.3.5","MIT","https://github.com/chromaui/chromatic-cli"
+"color-convert@2.0.1","MIT","https://github.com/Qix-/color-convert"
+"color-name@1.1.4","MIT","https://github.com/colorjs/color-name"
+"concat-map@0.0.1","MIT","https://github.com/substack/node-concat-map"
+"convert-source-map@2.0.0","MIT","https://github.com/thlorenz/convert-source-map"
+"cookie@1.0.2","MIT","https://github.com/jshttp/cookie"
+"cross-spawn@7.0.6","MIT","https://github.com/moxystudio/node-cross-spawn"
+"css.escape@1.5.1","MIT","https://github.com/mathiasbynens/CSS.escape"
+"csstype@3.1.3","MIT","https://github.com/frenic/csstype"
+"debug@4.4.3","MIT","https://github.com/debug-js/debug"
+"deep-eql@5.0.2","MIT","https://github.com/chaijs/deep-eql"
+"deep-is@0.1.4","MIT","https://github.com/thlorenz/deep-is"
+"default-browser-id@5.0.1","MIT","https://github.com/sindresorhus/default-browser-id"
+"default-browser@5.5.0","MIT","https://github.com/sindresorhus/default-browser"
+"define-lazy-prop@3.0.0","MIT","https://github.com/sindresorhus/define-lazy-prop"
+"dequal@2.0.3","MIT","https://github.com/lukeed/dequal"
+"detect-libc@2.1.2","Apache-2.0","https://github.com/lovell/detect-libc"
+"doctrine@3.0.0","Apache-2.0","https://github.com/eslint/doctrine"
+"dom-accessibility-api@0.5.16","MIT","https://github.com/eps1lon/dom-accessibility-api"
+"dom-accessibility-api@0.6.3","MIT","https://github.com/eps1lon/dom-accessibility-api"
+"electron-to-chromium@1.5.250","ISC","https://github.com/kilian/electron-to-chromium"
+"empathic@2.0.0","MIT","https://github.com/lukeed/empathic"
+"enhanced-resolve@5.18.3","MIT","https://github.com/webpack/enhanced-resolve"
+"es-module-lexer@1.7.0","MIT","https://github.com/guybedford/es-module-lexer"
+"esbuild@0.25.10","MIT","https://github.com/evanw/esbuild"
+"escalade@3.2.0","MIT","https://github.com/lukeed/escalade"
+"escape-string-regexp@4.0.0","MIT","https://github.com/sindresorhus/escape-string-regexp"
+"eslint-plugin-react-hooks@5.2.0","MIT","https://github.com/facebook/react"
+"eslint-plugin-react-refresh@0.4.23","MIT","https://github.com/ArnaudBarre/eslint-plugin-react-refresh"
+"eslint-plugin-storybook@10.2.13","MIT","https://github.com/storybookjs/storybook"
+"eslint-scope@8.4.0","BSD-2-Clause","https://github.com/eslint/js"
+"eslint-visitor-keys@3.4.3","Apache-2.0","https://github.com/eslint/eslint-visitor-keys"
+"eslint-visitor-keys@4.2.1","Apache-2.0","https://github.com/eslint/js"
+"eslint-visitor-keys@5.0.1","Apache-2.0","https://github.com/eslint/js"
+"eslint@9.37.0","MIT","https://github.com/eslint/eslint"
+"espree@10.4.0","BSD-2-Clause","https://github.com/eslint/js"
+"esprima@4.0.1","BSD-2-Clause","https://github.com/jquery/esprima"
+"esquery@1.6.0","BSD-3-Clause","https://github.com/estools/esquery"
+"esrecurse@4.3.0","BSD-2-Clause","https://github.com/estools/esrecurse"
+"estraverse@5.3.0","BSD-2-Clause","https://github.com/estools/estraverse"
+"estree-walker@2.0.2","MIT","https://github.com/Rich-Harris/estree-walker"
+"estree-walker@3.0.3","MIT","https://github.com/Rich-Harris/estree-walker"
+"esutils@2.0.3","BSD-2-Clause","https://github.com/estools/esutils"
+"expect-type@1.3.0","Apache-2.0","https://github.com/mmkal/expect-type"
+"fast-deep-equal@3.1.3","MIT","https://github.com/epoberezkin/fast-deep-equal"
+"fast-glob@3.3.3","MIT","https://github.com/mrmlnc/fast-glob"
+"fast-json-stable-stringify@2.1.0","MIT","https://github.com/epoberezkin/fast-json-stable-stringify"
+"fast-levenshtein@2.0.6","MIT","https://github.com/hiddentao/fast-levenshtein"
+"fastq@1.19.1","ISC","https://github.com/mcollina/fastq"
+"fdir@6.5.0","MIT","https://github.com/thecodrr/fdir"
+"file-entry-cache@8.0.0","MIT","https://github.com/jaredwray/file-entry-cache"
+"filesize@10.1.6","BSD-3-Clause","https://github.com/avoidwork/filesize.js"
+"fill-range@7.1.1","MIT","https://github.com/jonschlinkert/fill-range"
+"find-up@5.0.0","MIT","https://github.com/sindresorhus/find-up"
+"flat-cache@4.0.1","MIT","https://github.com/jaredwray/flat-cache"
+"flatted@3.3.3","ISC","https://github.com/WebReflection/flatted"
+"fraction.js@5.3.4","MIT","https://github.com/rawify/Fraction.js"
+"framer-motion@12.23.24","MIT","https://github.com/motiondivision/motion"
+"function-bind@1.1.2","MIT","https://github.com/Raynos/function-bind"
+"gensync@1.0.0-beta.2","MIT","https://github.com/loganfsmyth/gensync"
+"glob-parent@5.1.2","ISC","https://github.com/gulpjs/glob-parent"
+"glob-parent@6.0.2","ISC","https://github.com/gulpjs/glob-parent"
+"glob@13.0.6","BlueOak-1.0.0","https://github.com/isaacs/node-glob"
+"globals@14.0.0","MIT","https://github.com/sindresorhus/globals"
+"globals@16.4.0","MIT","https://github.com/sindresorhus/globals"
+"graceful-fs@4.2.11","ISC","https://github.com/isaacs/node-graceful-fs"
+"graphemer@1.4.0","MIT","https://github.com/flmnt/graphemer"
+"has-flag@4.0.0","MIT","https://github.com/sindresorhus/has-flag"
+"hasown@2.0.2","MIT","https://github.com/inspect-js/hasOwn"
+"html-escaper@2.0.2","MIT","https://github.com/WebReflection/html-escaper"
+"ignore@5.3.2","MIT","https://github.com/kaelzhang/node-ignore"
+"ignore@7.0.5","MIT","https://github.com/kaelzhang/node-ignore"
+"import-fresh@3.3.1","MIT","https://github.com/sindresorhus/import-fresh"
+"imurmurhash@0.1.4","MIT","https://github.com/jensyt/imurmurhash-js"
+"indent-string@4.0.0","MIT","https://github.com/sindresorhus/indent-string"
+"is-core-module@2.16.1","MIT","https://github.com/inspect-js/is-core-module"
+"is-docker@3.0.0","MIT","https://github.com/sindresorhus/is-docker"
+"is-extglob@2.1.1","MIT","https://github.com/jonschlinkert/is-extglob"
+"is-glob@4.0.3","MIT","https://github.com/micromatch/is-glob"
+"is-inside-container@1.0.0","MIT","https://github.com/sindresorhus/is-inside-container"
+"is-number@7.0.0","MIT","https://github.com/jonschlinkert/is-number"
+"is-wsl@3.1.1","MIT","https://github.com/sindresorhus/is-wsl"
+"isexe@2.0.0","ISC","https://github.com/isaacs/isexe"
+"istanbul-lib-coverage@3.2.2","BSD-3-Clause","https://github.com/istanbuljs/istanbuljs"
+"istanbul-lib-report@3.0.1","BSD-3-Clause","https://github.com/istanbuljs/istanbuljs"
+"istanbul-reports@3.2.0","BSD-3-Clause","https://github.com/istanbuljs/istanbuljs"
+"jiti@2.6.1","MIT","https://github.com/unjs/jiti"
+"js-cookie@3.0.5","MIT","https://github.com/js-cookie/js-cookie"
+"js-tokens@10.0.0","MIT","https://github.com/lydell/js-tokens"
+"js-tokens@4.0.0","MIT","https://github.com/lydell/js-tokens"
+"js-yaml@4.1.0","MIT","https://github.com/nodeca/js-yaml"
+"jsesc@3.1.0","MIT","https://github.com/mathiasbynens/jsesc"
+"json-buffer@3.0.1","MIT","https://github.com/dominictarr/json-buffer"
+"json-schema-traverse@0.4.1","MIT","https://github.com/epoberezkin/json-schema-traverse"
+"json-stable-stringify-without-jsonify@1.0.1","MIT","https://github.com/samn/json-stable-stringify"
+"json5@2.2.3","MIT","https://github.com/json5/json5"
+"jsonfile@6.2.0","MIT","https://github.com/jprichardson/node-jsonfile"
+"keyv@4.5.4","MIT","https://github.com/jaredwray/keyv"
+"levn@0.4.1","MIT","https://github.com/gkz/levn"
+"lightningcss-win32-x64-msvc@1.30.2","MPL-2.0","https://github.com/parcel-bundler/lightningcss"
+"lightningcss@1.30.2","MPL-2.0","https://github.com/parcel-bundler/lightningcss"
+"locate-path@6.0.0","MIT","https://github.com/sindresorhus/locate-path"
+"lodash.merge@4.6.2","MIT","https://github.com/lodash/lodash"
+"loupe@3.2.1","MIT","https://github.com/chaijs/loupe"
+"lru-cache@11.2.6","BlueOak-1.0.0","https://github.com/isaacs/node-lru-cache"
+"lru-cache@5.1.1","ISC","https://github.com/isaacs/node-lru-cache"
+"lucide-react@0.553.0","ISC","https://github.com/lucide-icons/lucide"
+"lz-string@1.5.0","MIT","https://github.com/pieroxy/lz-string"
+"magic-string@0.30.21","MIT","https://github.com/Rich-Harris/magic-string"
+"magicast@0.5.2","MIT","https://github.com/unjs/magicast"
+"make-dir@4.0.0","MIT","https://github.com/sindresorhus/make-dir"
+"merge2@1.4.1","MIT","https://github.com/teambition/merge2"
+"micromatch@4.0.8","MIT","https://github.com/micromatch/micromatch"
+"min-indent@1.0.1","MIT","https://github.com/thejameskyle/min-indent"
+"minimatch@10.2.4","BlueOak-1.0.0","https://github.com/isaacs/minimatch"
+"minimatch@3.1.2","ISC","https://github.com/isaacs/minimatch"
+"minimatch@9.0.5","ISC","https://github.com/isaacs/minimatch"
+"minimist@1.2.8","MIT","https://github.com/minimistjs/minimist"
+"minipass@7.1.3","BlueOak-1.0.0","https://github.com/isaacs/minipass"
+"motion-dom@12.23.23","MIT","https://github.com/motiondivision/motion"
+"motion-utils@12.23.6","MIT","https://github.com/motiondivision/motion"
+"mrmime@2.0.1","MIT","https://github.com/lukeed/mrmime"
+"ms@2.1.3","MIT","https://github.com/vercel/ms"
+"nanoid@3.3.11","MIT","https://github.com/ai/nanoid"
+"natural-compare@1.4.0","MIT","https://github.com/litejs/natural-compare-lite"
+"node-releases@2.0.27","MIT","https://github.com/chicoxyzzy/node-releases"
+"normalize-range@0.1.2","MIT","https://github.com/jamestalmage/normalize-range"
+"obug@2.1.1","MIT","https://github.com/sxzz/obug"
+"open@10.2.0","MIT","https://github.com/sindresorhus/open"
+"optionator@0.9.4","MIT","https://github.com/gkz/optionator"
+"p-limit@3.1.0","MIT","https://github.com/sindresorhus/p-limit"
+"p-locate@5.0.0","MIT","https://github.com/sindresorhus/p-locate"
+"parent-module@1.0.1","MIT","https://github.com/sindresorhus/parent-module"
+"path-exists@4.0.0","MIT","https://github.com/sindresorhus/path-exists"
+"path-key@3.1.1","MIT","https://github.com/sindresorhus/path-key"
+"path-parse@1.0.7","MIT","https://github.com/jbgutierrez/path-parse"
+"path-scurry@2.0.2","BlueOak-1.0.0","https://github.com/isaacs/path-scurry"
+"pathe@2.0.3","MIT","https://github.com/unjs/pathe"
+"pathval@2.0.1","MIT","https://github.com/chaijs/pathval"
+"picocolors@1.1.1","ISC","https://github.com/alexeyraspopov/picocolors"
+"picomatch@2.3.1","MIT","https://github.com/micromatch/picomatch"
+"picomatch@4.0.3","MIT","https://github.com/micromatch/picomatch"
+"pixelmatch@7.1.0","ISC","https://github.com/mapbox/pixelmatch"
+"playwright-core@1.58.2","Apache-2.0","https://github.com/microsoft/playwright"
+"playwright@1.58.2","Apache-2.0","https://github.com/microsoft/playwright"
+"pngjs@7.0.0","MIT","https://github.com/pngjs/pngjs"
+"postcss-value-parser@4.2.0","MIT","https://github.com/TrySound/postcss-value-parser"
+"postcss@8.5.6","MIT","https://github.com/postcss/postcss"
+"prelude-ls@1.2.1","MIT","https://github.com/gkz/prelude-ls"
+"pretty-format@27.5.1","MIT","https://github.com/facebook/jest"
+"property-expr@2.0.6","MIT","https://github.com/jquense/expr"
+"punycode@2.3.1","MIT","https://github.com/mathiasbynens/punycode.js"
+"queue-microtask@1.2.3","MIT","https://github.com/feross/queue-microtask"
+"react-cookie-consent@10.0.1","MIT","https://github.com/Mastermindzh/react-cookie-consent"
+"react-docgen-typescript@2.4.0","MIT","https://github.com/styleguidist/react-docgen-typescript"
+"react-docgen@8.0.2","MIT","https://github.com/reactjs/react-docgen"
+"react-dom@19.2.0","MIT","https://github.com/facebook/react"
+"react-hook-form@7.66.0","MIT","https://github.com/react-hook-form/react-hook-form"
+"react-is@17.0.2","MIT","https://github.com/facebook/react"
+"react-refresh@0.17.0","MIT","https://github.com/facebook/react"
+"react-router-dom@7.9.3","MIT","https://github.com/remix-run/react-router"
+"react-router@7.9.3","MIT","https://github.com/remix-run/react-router"
+"react@19.2.0","MIT","https://github.com/facebook/react"
+"recast@0.23.11","MIT","https://github.com/benjamn/recast"
+"redent@3.0.0","MIT","https://github.com/sindresorhus/redent"
+"resolve-from@4.0.0","MIT","https://github.com/sindresorhus/resolve-from"
+"resolve@1.22.11","MIT","https://github.com/browserify/resolve"
+"reusify@1.1.0","MIT","https://github.com/mcollina/reusify"
+"rollup@4.52.4","MIT","https://github.com/rollup/rollup"
+"run-applescript@7.1.0","MIT","https://github.com/sindresorhus/run-applescript"
+"run-parallel@1.2.0","MIT","https://github.com/feross/run-parallel"
+"scheduler@0.27.0","MIT","https://github.com/facebook/react"
+"semver@6.3.1","ISC","https://github.com/npm/node-semver"
+"semver@7.7.2","ISC","https://github.com/npm/node-semver"
+"semver@7.7.4","ISC","https://github.com/npm/node-semver"
+"set-cookie-parser@2.7.1","MIT","https://github.com/nfriedly/set-cookie-parser"
+"shebang-command@2.0.0","MIT","https://github.com/kevva/shebang-command"
+"shebang-regex@3.0.0","MIT","https://github.com/sindresorhus/shebang-regex"
+"siginfo@2.0.0","ISC","https://github.com/emilbayes/siginfo"
+"sirv@3.0.2","MIT","https://github.com/lukeed/sirv"
+"source-map-js@1.2.1","BSD-3-Clause","https://github.com/7rulnik/source-map-js"
+"source-map@0.6.1","BSD-3-Clause","https://github.com/mozilla/source-map"
+"stackback@0.0.2","MIT","https://github.com/shtylman/node-stackback"
+"std-env@3.10.0","MIT","https://github.com/unjs/std-env"
+"storybook@10.2.13","MIT","https://github.com/storybookjs/storybook"
+"strip-ansi@7.2.0","MIT","https://github.com/chalk/strip-ansi"
+"strip-bom@3.0.0","MIT","https://github.com/sindresorhus/strip-bom"
+"strip-indent@3.0.0","MIT","https://github.com/sindresorhus/strip-indent"
+"strip-indent@4.1.1","MIT","https://github.com/sindresorhus/strip-indent"
+"strip-json-comments@3.1.1","MIT","https://github.com/sindresorhus/strip-json-comments"
+"supports-color@7.2.0","MIT","https://github.com/chalk/supports-color"
+"supports-preserve-symlinks-flag@1.0.0","MIT","https://github.com/inspect-js/node-supports-preserve-symlinks-flag"
+"tailwindcss@4.1.17","MIT","https://github.com/tailwindlabs/tailwindcss"
+"tapable@2.3.0","MIT","https://github.com/webpack/tapable"
+"tiny-case@1.0.3","MIT","https://github.com/jquense/tiny-case"
+"tiny-invariant@1.3.3","MIT","https://github.com/alexreardon/tiny-invariant"
+"tinybench@2.9.0","MIT","https://github.com/tinylibs/tinybench"
+"tinyexec@1.0.2","MIT","https://github.com/tinylibs/tinyexec"
+"tinyglobby@0.2.15","MIT","https://github.com/SuperchupuDev/tinyglobby"
+"tinyrainbow@2.0.0","MIT","https://github.com/tinylibs/tinyrainbow"
+"tinyrainbow@3.0.3","MIT","https://github.com/tinylibs/tinyrainbow"
+"tinyspy@4.0.4","MIT","https://github.com/tinylibs/tinyspy"
+"to-regex-range@5.0.1","MIT","https://github.com/micromatch/to-regex-range"
+"toposort@2.0.2","MIT","https://github.com/marcelklehr/toposort"
+"totalist@3.0.1","MIT","https://github.com/lukeed/totalist"
+"ts-api-utils@2.4.0","MIT","https://github.com/JoshuaKGoldberg/ts-api-utils"
+"ts-dedent@2.2.0","MIT","https://github.com/tamino-martinius/node-ts-dedent"
+"tsconfig-paths@4.2.0","MIT","https://github.com/dividab/tsconfig-paths"
+"tslib@2.8.1","0BSD","https://github.com/Microsoft/tslib"
+"type-check@0.4.0","MIT","https://github.com/gkz/type-check"
+"type-fest@2.19.0","(MIT OR CC0-1.0)","https://github.com/sindresorhus/type-fest"
+"typescript-eslint@8.46.0","MIT","https://github.com/typescript-eslint/typescript-eslint"
+"typescript@5.9.3","Apache-2.0","https://github.com/microsoft/TypeScript"
+"undici-types@7.14.0","MIT","https://github.com/nodejs/undici"
+"universalify@2.0.1","MIT","https://github.com/RyanZim/universalify"
+"unplugin@2.3.11","MIT","https://github.com/unjs/unplugin"
+"update-browserslist-db@1.1.4","MIT","https://github.com/browserslist/update-db"
+"uri-js@4.4.1","BSD-2-Clause","https://github.com/garycourt/uri-js"
+"use-sync-external-store@1.6.0","MIT","https://github.com/facebook/react"
+"vite@7.1.9","MIT","https://github.com/vitejs/vite"
+"vitest@4.0.18","MIT","https://github.com/vitest-dev/vitest"
+"webpack-virtual-modules@0.6.2","MIT","https://github.com/sysgears/webpack-virtual-modules"
+"which@2.0.2","ISC","https://github.com/isaacs/node-which"
+"why-is-node-running@2.3.0","MIT","https://github.com/mafintosh/why-is-node-running"
+"word-wrap@1.2.5","MIT","https://github.com/jonschlinkert/word-wrap"
+"ws@8.19.0","MIT","https://github.com/websockets/ws"
+"wsl-utils@0.1.0","MIT","https://github.com/sindresorhus/wsl-utils"
+"yallist@3.1.1","ISC","https://github.com/isaacs/yallist"
+"yocto-queue@0.1.0","MIT","https://github.com/sindresorhus/yocto-queue"
+"yup@1.7.1","MIT","https://github.com/jquense/yup"
+"zustand@5.0.9","MIT","https://github.com/pmndrs/zustand"

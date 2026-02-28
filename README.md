@@ -1,12 +1,11 @@
-![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Docs](https://img.shields.io/badge/Docs-Docusaurus-4B4BFF)](./battleship-docs)
-![Storybook](https://img.shields.io/badge/Storybook-8-FF4785?logo=storybook&logoColor=white)
-![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-5-000000)
+[![Storybook](https://img.shields.io/badge/Storybook-8-FF4785?logo=storybook&logoColor=white)](#-component-development)
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 # ⚓ Battleship (5×5)
 
@@ -82,6 +81,8 @@ npm run storybook
 - [Privacy Policy](PRIVACY_POLICY.md)
 - [GDPR Guide](GDPR.md)
 - [EULA](EULA.md)
+
+### [Відео документації](https://drive.google.com/file/d/1aVbXPhnat2xvHA-3ZjaYsDJHXMitQ5m4/view?usp=sharing)
 
 ## License
 
