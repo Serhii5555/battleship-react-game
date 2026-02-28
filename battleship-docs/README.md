@@ -1,3 +1,5 @@
+[![Docusaurus](static/img/docusaurus.png)](https://docusaurus.io/)
+
 # Battleship Docs
 
 This documentation website is built using [Docusaurus](https://docusaurus.io/), a modern static site generator for React.

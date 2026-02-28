@@ -41,3 +41,7 @@ h1 {
   background-color: #aaa;
   cursor: not-allowed;
 }
+
+.game-button.secondary {
+  background-color: #00a2ff;
+}

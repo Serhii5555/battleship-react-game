@@ -1,6 +1,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Docs](https://img.shields.io/badge/docs-Docusaurus-4B4BFF)](./battleship-docs)
+[![Docs](https://img.shields.io/badge/Docs-Docusaurus-4B4BFF)](./battleship-docs)
+![Storybook](https://img.shields.io/badge/Storybook-8-FF4785?logo=storybook&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
@@ -15,7 +16,7 @@ A classic naval battle board game implemented in React with responsive design an
 
 [![Gameplay](public/gifs/gameplay.gif)](public/gifs/gameplay.gif)
 
-## Installation and Setup
+## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
@@ -41,51 +42,39 @@ The application will be available at: `http://localhost:5173` (port may vary)
 
 ## Available Commands
 
-| Command         | Description                                               |
-| --------------- | --------------------------------------------------------- |
-| `npm run dev`   | Run in development mode with HMR (Hot Module Replacement) |
-| `npm run build` | Build the project for production                          |
-| `npm run lint`  | Check code with ESLint                                    |
+| Command             | Description                                               |
+| ------------------- | --------------------------------------------------------- |
+| `npm run dev`       | Run in development mode with HMR (Hot Module Replacement) |
+| `npm run build`     | Build the project for production                          |
+| `npm run lint`      | Check code with ESLint                                    |
+| `npm run storybook` | Run Storybook for isolated component development          |
 
-## 📚 Documentation
+## 🛠 Tech Stack
 
-The project uses **Docusaurus** for full documentation.  
-Documentation source: [/battleship-docs](battleship-docs)
+- React 19
+- TypeScript 5.9
+- Vite 7
+- Tailwind CSS 4
+- Zustand
+- Framer Motion
 
-## Dependencies
+## 🧩 Component Development
 
-### Production Dependencies
+This project uses **Storybook** for isolated component development and UI testing.
 
-- `@hookform/resolvers` - integration with React Hook Form
-- `@tailwindcss/vite` - Tailwind CSS Vite integration
-- `framer-motion` - animation library
-- `lucide-react` - icon set
-- `react` - core library
-- `react-cookie-consent` - GDPR-compliant cookie consent management
-- `react-dom` - DOM manipulation
-- `react-hook-form` - form state management
-- `react-router-dom` - client-side routing
-- `yup` - schema validation
-- `zustand` - state management
+Run locally:
 
-### Development Dependencies
-
-- `@types/react` - TypeScript types for React
-- `@types/react-dom` - TypeScript types for React DOM
-- `@types/node` - TypeScript types for Node.js
-- `@vitejs/plugin-react` - Vite React plugin
-- `autoprefixer` - CSS vendor prefix processing
-- `eslint` and plugins - code linting
-- `postcss` - CSS processing
-- `tailwindcss` - CSS framework
-- `typescript` - static typing
-- `vite` - build tool
+```bash
+cd battleship
+npm run storybook
+```
 
 ## 📄 Documentation & Legal
 
 ### User Documentation
 
-- **[User Guide](USER_GUIDE.md)** – Complete user guide with game instructions, features, tips, and troubleshooting
+- Full documentation is powered by Docusaurus and located in [`/battleship-docs`](battleship-docs).
+- [**User Guide**](USER_GUIDE.md)
 
 ### Legal & Compliance
 
@@ -96,14 +85,9 @@ Documentation source: [/battleship-docs](battleship-docs)
 
 ## License
 
-BattleshipGame is licensed under the MIT License.
+MIT — see [LICENSE](LICENSE)
 
-The MIT License is a permissive open source license that allows anyone to use, modify, distribute, and sublicense the project with minimal restrictions. The only requirement is that the original copyright and license notice be included in all copies or substantial portions of the software.
-
-For the full license text, see:
-
-- **[LICENSE](LICENSE)** — MIT License for the project
-- **[DEPENDENCIES_LICENSES](DEPENDENCIES_LICENSES.md)** — Complete license list for all third-party dependencies used in BattleshipGame
+Third-party dependency licenses: [DEPENDENCIES_LICENSES.md](DEPENDENCIES_LICENSES.md)
 
 ---
 
